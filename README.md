@@ -1,6 +1,6 @@
 # springai-embeddings-demo
 
-This is a demo projects displaying simple integration with OpenAI Embeddings API using Spring AI
+This is a demo projects displaying simple integration with AWS Bedrock Embeddings model API using Spring AI
 
 # Prerequisites
 
