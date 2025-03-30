@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: aiembeddingsbedrock
+  ai:
+    bedrock:
+      aws:
+        access-key:
+        secret-key:
+      cohere:
+        embedding:
+          model: cohere.embed-multilingual-v3
+          enabled: true
+
