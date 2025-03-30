@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "DreamSoft Memory Foam",
+    "description": "Queen size, memory foam, medium firmness, cooling gel layer, hypoallergenic cover, pressure-relieving design, motion isolation, anti-bacterial protection, reinforced edges, eco-friendly materials, breathable fabric."
+  },
+  {
+    "id": 2,
+    "name": "SleepWell Hybrid Comfort",
+    "description": "King size, hybrid (foam + springs), medium-firm, breathable fabric, motion isolation, orthopedic support, reinforced edges, dust-mite resistant, zoned pressure relief, temperature-regulating cover, moisture-wicking material."
+  },
+  {
+    "id": 3,
+    "name": "OrthoRest Firm Support",
+    "description": "Full size, high-density foam, firm support, orthopedic design, anti-bacterial cover, hypoallergenic materials, motion isolation, lumbar support zone, durable construction, soft knit fabric."
+  },
+  {
+    "id": 4,
+    "name": "CloudNine Plush Top",
+    "description": "California King, pillow-top design, soft firmness, pocketed coils, moisture-wicking fabric, pressure-relief zones, motion isolation, anti-microbial treatment, reinforced edge support, luxury plush feel."
+  },
+  {
+    "id": 5,
+    "name": "EcoSleep Organic Latex",
+    "description": "Queen size, natural latex, medium firmness, organic cotton cover, eco-friendly materials, hypoallergenic, durable support, breathable construction, cooling airflow design, anti-dust-mite protection."
+  },
+  {
+    "id": 6,
+    "name": "ZenBalance Hybrid Pro",
+    "description": "King size, hybrid latex and springs, firm support, pressure relief zones, cooling technology, orthopedic certified, reinforced lumbar support, anti-bacterial protection, soft-touch fabric, edge stability."
+  },
+  {
+    "id": 7,
+    "name": "SnugFit Dual Comfort",
+    "description": "Twin size, reversible (soft and firm sides), gel-infused memory foam, anti-microbial cover, motion isolation, breathable materials, cooling effect, ergonomic design, pressure relief, durable construction."
+  },
+  {
+    "id": 8,
+    "name": "TranquilDream Euro Top",
+    "description": "Full size, euro-top cushion, medium-soft, breathable layers, reinforced edges, plush comfort, pressure relief, orthopedic support, anti-allergy treatment, soft-touch fabric."
+  },
+  {
+    "id": 9,
+    "name": "SleepWell Firm Hybrid",
+    "description": "Queen size, pocket springs and latex, extra firm support, temperature-regulating fabric, breathable mesh cover, motion isolation, reinforced lumbar zone, anti-microbial coating, edge support, durable foam layers."
+  },
+  {
+    "id": 10,
+    "name": "CloudNest Ultra Soft",
+    "description": "Twin size, ultra-soft memory foam, adaptive contouring, hypoallergenic materials, plush comfort, ergonomic design, motion isolation, cooling gel layer, anti-dust-mite treatment, durable cover."
+  },
+  {
+    "id": 11,
+    "name": "GrandRest Luxury Foam",
+    "description": "California King, high-resilience foam, medium firmness, pressure-relieving layers, durable support, orthopedic comfort, breathable construction, anti-allergy cover, moisture-wicking fabric, reinforced durability."
+  },
+  {
+    "id": 12,
+    "name": "NatureSleep Bamboo Bliss",
+    "description": "Queen size, bamboo-infused foam, medium-plush, dust-mite resistant, cooling effect, eco-friendly construction, breathable layers, ergonomic support, anti-bacterial finish, luxury feel."
+  },
+  {
+    "id": 13,
+    "name": "BackCare OrthoFlex",
+    "description": "King size, orthopedic support, extra firm, reinforced lumbar zone, breathable mesh cover, motion isolation, pressure-relief technology, anti-allergy fabric, durable construction, anti-microbial treatment."
+  },
+  {
+    "id": 14,
+    "name": "EcoHaven Pure Latex",
+    "description": "Full size, 100% natural latex, firm support, moisture-resistant organic cotton cover, eco-friendly production, anti-bacterial protection, breathable layers, ergonomic support, durable edge reinforcement, motion control."
+  },
+  {
+    "id": 15,
+    "name": "SereneNight Cooling Gel",
+    "description": "Twin XL, gel-infused foam, medium-soft, anti-sag technology, eco-friendly fabric, breathable layers, reinforced edges, motion isolation, cooling airflow, pressure relief."
+  },
+  {
+    "id": 16,
+    "name": "AirFlow Tech Hybrid",
+    "description": "King size, hybrid springs and foam, airflow channels, medium-firm, ergonomic design, orthopedic support, durable frame, anti-bacterial cover, temperature control, reinforced edge support."
+  },
+  {
+    "id": 17,
+    "name": "HavenCloud Orthopedic",
+    "description": "Queen size, orthopedic memory foam, medium firmness, zoned pressure relief, anti-bacterial fabric, motion isolation, breathable construction, hypoallergenic, edge reinforcement, moisture control."
+  },
+  {
+    "id": 18,
+    "name": "EliteRest Plush Feel",
+    "description": "California King, plush top layer, responsive foam, moisture-wicking fabric, ultra-soft finish, ergonomic design, breathable mesh, motion control, reinforced edges, luxury feel."
+  },
+  {
+    "id": 19,
+    "name": "SleepGuard Anti-Allergy",
+    "description": "Full size, hypoallergenic foam, medium-firm, mite-resistant, reinforced support core, anti-dust-mite treatment, breathable design, motion isolation, ergonomic shape, cooling effect."
+  },
+  {
+    "id": 20,
+    "name": "SnuggleEase Memory Cloud",
+    "description": "Twin size, cloud-like memory foam, medium-plush, heat-dissipating layers, soft knit cover, motion isolation, breathable fabric, anti-bacterial treatment, ergonomic shape, pressure relief."
+  }
+]
